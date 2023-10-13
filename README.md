@@ -1,5 +1,5 @@
 # Mon GitHub
-<h3>🤝- PRESENTATION</h3>
+<h3>🤝- Présentation</h3>
 <table>
     <tr>
     <td>
@@ -15,7 +15,7 @@
     </td></tr>
 </table>
 
-<h3>📱 - ME CONTACTER</h3>
+<h3>📱 - Me Contacter</h3>
 
 <br>
 
@@ -24,7 +24,7 @@
 
 <br>
 
-<h3>💻 - LANGAGES</h3>
+<h3>💻 - Langages</h3>
 
 <br>
 
@@ -42,7 +42,7 @@
 - Vuejs
 - React  
 
-<h3>🚀 - STATS GITHUB</h3>
+<h3>🚀 - Stats GitHub</h3>
 
 <br>
 
