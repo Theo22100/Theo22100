@@ -25,7 +25,7 @@
         <img align="left" src="https://raw.githubusercontent.com/theo22100/README/main/images/Gmail.svg" alt="Theo Guerin | GMail" width="40px" style="height: 40px; margin: 0 10px;" />
     </a>
 </div>
-<br>
+<br><br>
 
 <h3>💻 - Languages and Tools</h3>
 
