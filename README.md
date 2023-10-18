@@ -1,21 +1,21 @@
-# Mon GitHub
-<h3>🤝- Présentation</h3>
+# My GitHub
+<h3>🤝- Presentation</h3>
 <table>
     <tr>
     <td>
     <img align="middle" src="https://raw.githubusercontent.com/theo22100/README/main/images/avatar-round.png" alt="Theo Guerin | Avatar" width="120px"/>
     </td><td>
     <ul>
-    <li>👋 Bonjour, je suis @Theo22100</li>
-    <li>📌 Bienvenue dans mon petit univers !</li>
-    <li>💻 Je suis un Développeur Web FullStack</li>
-    <li>👔 3ème année en Bachelor Web chez My Digital School</li>
-    <li>📝 En recherche d'alternance pour 2023-2024 !</li>
+    <li>👋 Hello, I'm @Theo22100</li>
+    <li>📌 Welcome to my little universe!</li>
+    <li>💻 I'm a FullStack Web Developer</li>
+    <li>👔 3rd year Bachelor Web at My Digital School</li>
+    <li>📝 Looking for a work-study program for 2023-2024!</li>
     </ul>
     </td></tr>
 </table>
 
-<h3>📱 - Me Contacter</h3>
+<h3>📱 - Contact with Me</h3>
 
 <br>
 
@@ -24,7 +24,7 @@
 
 <br>
 
-<h3>💻 - Langages</h3>
+<h3>💻 - Languages and Tools</h3>
 
 <br>
 
@@ -37,7 +37,7 @@
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 
 
-<h3> 🌱 - Je travaille actuellement sur :</h3>
+<h3> 🌱 - I am currently working on :</h3>
 
 - Vuejs
 - React  
@@ -46,4 +46,4 @@
 
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Theo22100&layout=donut&theme=dark) ![Les Stats GitHub de Theo22100](https://github-readme-stats.vercel.app/api?username=Theo22100&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Theo22100&layout=donut&theme=dark) ![Stats GitHub Theo22100](https://github-readme-stats.vercel.app/api?username=Theo22100&show_icons=true&theme=dark)
