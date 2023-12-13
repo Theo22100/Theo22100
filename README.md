@@ -45,7 +45,8 @@
 <h3> 🌱 - I am currently working on :</h3>
 
 - Vuejs
-- React  
+- React
+- NodeJS
 
 <h3>🚀 - Stats GitHub</h3>
 
