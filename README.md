@@ -3,14 +3,16 @@
 <table> 
     <tr>
     <td>
-    <img align="middle" src="https://raw.githubusercontent.com/theo22100/README/main/images/avatar-round.png" alt="Theo Guerin | Avatar" width="120px"/>
+    <a href="https://theo-guerin.fr/" target="_blank">
+        <img align="middle" src="https://raw.githubusercontent.com/theo22100/README/main/images/avatar-round.png" alt="Theo Guerin | Avatar" width="120px"/>
+    </a>
     </td><td>
     <ul>
     <li>👋 Hello, I'm @Theo22100</li>
     <li>📌 Welcome to my little universe!</li>
     <li>👨‍💻 I'm a FullStack Web Developer</li>
     <li>👔 1st year Master FullStack Web Developer</li>
-    <li>💻 <a href="https://theo-guerin.fr/">theo-guerin.fr</a></li>
+    <li>💻 <a href="https://theo-guerin.fr/" target="_blank">theo-guerin.fr</a></li>
     </ul>
     </td></tr>
 </table>
@@ -18,7 +20,7 @@
 <h3>📱 - Contact with Me</h3>
 
 <div style="text-align: center; display: flex; justify-content: center;">
-    <a href="https://www.linkedin.com/in/théo-guérin-b20630192/">
+    <a href="https://www.linkedin.com/in/théo-guérin-b20630192/" target="_blank">
         <img align="left" src="https://raw.githubusercontent.com/theo22100/README/main/images/linkedin.svg" alt="Theo Guerin | LinkedIn" width="40px" style="height: 40px; margin: 0 10px;" />
     </a>
     <a href="mailto:Theo.Guerin35000@gmail.com">
