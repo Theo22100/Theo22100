@@ -9,8 +9,7 @@
     <li>👋 Hello, I'm @Theo22100</li>
     <li>📌 Welcome to my little universe!</li>
     <li>💻 I'm a FullStack Web Developer</li>
-    <li>👔 3rd year Bachelor Web at My Digital School</li>
-    <li>📝 Looking for a work-study program for 2024-2026 !</li>
+    <li>👔 1st year Master FullStack Web Developer</li>
     </ul>
     </td></tr>
 </table>
