@@ -10,7 +10,7 @@
     <li>📌 Welcome to my little universe!</li>
     <li>👨‍💻 I'm a FullStack Web Developer</li>
     <li>👔 1st year Master FullStack Web Developer</li>
-    <li>💻 theo-guerin.fr</li>
+    <li>💻 <a href="https://theo-guerin.fr/">theo-guerin.fr</a></li>
     </ul>
     </td></tr>
 </table>
