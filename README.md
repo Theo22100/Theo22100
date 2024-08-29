@@ -8,8 +8,9 @@
     <ul>
     <li>👋 Hello, I'm @Theo22100</li>
     <li>📌 Welcome to my little universe!</li>
-    <li>💻 I'm a FullStack Web Developer</li>
+    <li>👨‍💻 I'm a FullStack Web Developer</li>
     <li>👔 1st year Master FullStack Web Developer</li>
+    <li>💻 theo-guerin.fr</li>
     </ul>
     </td></tr>
 </table>
