@@ -50,7 +50,8 @@
 
 <h3> 🌱 - I am currently working on :</h3>
 
-- Flutter
+- Azuriom
+- Laravel
 
 <h3>🚀 - Stats GitHub</h3>
 
