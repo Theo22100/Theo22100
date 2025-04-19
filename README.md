@@ -4,7 +4,7 @@
     <tr>
     <td>
     <a href="https://theo-guerin.fr/" target="_blank">
-        <img align="middle" src="https://raw.githubusercontent.com/theo22100/README/main/images/avatar.png" alt="Theo Guerin | Avatar" width="120px"/>
+        <img align="middle" src="https://raw.githubusercontent.com/theo22100/README/main/images/avatar.svg" alt="Theo Guerin | Avatar" width="120px"/>
     </a>
     </td><td>
     <ul>
